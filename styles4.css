@@ -1,0 +1,70 @@
+h1 {
+  color: blue;
+  font-family: verdana;
+  font-size: 300%;
+  background-color: green;
+  opacity: 1;
+}
+p {
+  color: red;
+  font-family: tahoma;
+  font-size: 160%;
+   background-color: yellow;
+}
+
+h2 {
+  background-color: lightblue;
+}
+
+body {
+  background-color: grey;
+}
+
+.test{
+    height:156px;
+    width:250px;
+	   background-color: yellow;
+	     font-family: verdana;
+  font-size: 300%;
+}
+.test2{
+    height:200px;
+    width:300px;
+	   background-color: red;
+	     font-family: comic sans ms;
+  font-size: 200%;
+}
+h4 {
+  color: rgb(48, 213, 133);
+  font-family: verdana;
+  font-size: 300%;
+  background-color: rgb(48, 158, 213);
+  opacity: 2;
+}
+h6 {
+  color: rgb(225, 255, 0);
+  font-family: malgun gothic;
+  font-size: 300%;
+  background-color: rgb(217, 180, 253);
+  opacity: 2;
+}
+h7 {
+  color: rgb(225, 255, 0);
+  font-family: malgun gothic;
+  font-size: 300%;
+  background-color: rgb(217, 180, 253);
+  opacity: 2;
+}
+h10 {
+  color: rgb(225, 255, 0);
+  font-family: malgun gothic;
+  font-size: 1000%;
+  background-color: rgb(217, 180, 253);
+  opacity: 0.01;
+}
+body {
+  background-image: url('1125589.jpg');
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+}
